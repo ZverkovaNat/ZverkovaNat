@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZverkovaNat
-- 👀 I’m interested in data analitics
+- 👀 I’m interested in data analitics.
 - 🌱 I’m currently learning machine learning, python, SQL.
 - 💞️ I’m looking to collaborate on product analysis or smth else.
 - 📫 How to reach me +7 952279 77 30 or nvishnia1994@gmail.com
